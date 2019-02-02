@@ -1,3 +1,5 @@
-Antonello Asido Santos
-Antonello Rafael Cruz
-Github Workshop
+<<<<<<< HEAD
+Antonello Asido Santos - Nello 
+=======
+Antonello Santos - Nello 
+>>>>>>> dev
